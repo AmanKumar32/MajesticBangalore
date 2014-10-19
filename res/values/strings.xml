@@ -4,5 +4,7 @@
     <string name="app_name">MajesticBangalore</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="Cancel">Cancel</string>
+    <string name="open_location_settings">Enable Location services</string>
 
 </resources>

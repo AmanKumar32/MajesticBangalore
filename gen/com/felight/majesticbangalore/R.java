@@ -405,8 +405,9 @@ containing a value of this type.
         public static final int ic_plusone_small_off_client=0x7f02001c;
         public static final int ic_plusone_standard_off_client=0x7f02001d;
         public static final int ic_plusone_tall_off_client=0x7f02001e;
-        public static final int powered_by_google_dark=0x7f02001f;
-        public static final int powered_by_google_light=0x7f020020;
+        public static final int marker=0x7f02001f;
+        public static final int powered_by_google_dark=0x7f020020;
+        public static final int powered_by_google_light=0x7f020021;
     }
     public static final class id {
         public static final int action_settings=0x7f070015;
@@ -442,6 +443,7 @@ containing a value of this type.
         public static final int main=0x7f0a0000;
     }
     public static final class string {
+        public static final int Cancel=0x7f05002d;
         public static final int accept=0x7f050002;
         public static final int action_settings=0x7f05002c;
         public static final int app_name=0x7f05002a;
@@ -548,6 +550,7 @@ containing a value of this type.
         public static final int create_calendar_title=0x7f050004;
         public static final int decline=0x7f050003;
         public static final int hello_world=0x7f05002b;
+        public static final int open_location_settings=0x7f05002e;
         public static final int store_picture_message=0x7f050001;
         public static final int store_picture_title=0x7f050000;
         /**  Text on a placeholder buy button when Google Play services is not
